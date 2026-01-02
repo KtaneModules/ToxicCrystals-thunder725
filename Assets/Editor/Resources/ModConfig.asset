@@ -11,22 +11,22 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 615501dbe4f3fe94fbf4b564abb10237, type: 3}
   m_Name: ModConfig
   m_EditorClassIdentifier: 
-  id: BagwormCloak
-  title: Bagworm Cloak
+  id: ToxicCrystals
+  title: Toxic Crystals
   author: thunder725
-  description: 'Bagworm Cloak - 1.0
+  description: 'Toxic Crystals - 1.0
 
 
-    Determine which insulation pile to press using the ones scattered on the module
+    Remove toxin-filled crystals in an ever-changing sludge of alchemy and poison.
 
 
-    Module ID: BagwormCloak
+    Module ID: ToxicCrystals
 
 
     Created by: thunder725
 
 
-    Manual available here: https://ktane.timwi.de/HTML/Bagworm%20Cloak.html
+    Manual available here: https://ktane.timwi.de/HTML/Toxic%20Crystals.html
 
 
     =-= Build notes =-=
